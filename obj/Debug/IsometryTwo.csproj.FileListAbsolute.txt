@@ -1,0 +1,11 @@
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.csproj.AssemblyReference.cache
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.Form1.resources
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.Properties.Resources.resources
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.csproj.GenerateResource.cache
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.csproj.CoreCompileInputs.cache
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\bin\Debug\IsometryTwo.exe.config
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\bin\Debug\IsometryTwo.exe
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\bin\Debug\IsometryTwo.pdb
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.exe
+C:\Users\banil\source\repos\IsometryTwo\IsometryTwo\obj\Debug\IsometryTwo.pdb
